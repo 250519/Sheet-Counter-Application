@@ -7,3 +7,6 @@ colorFrom: indigo
 colorTo: purple
 pinned: true
 ---
+
+
+You can directly access the application from public url i.e https://huggingface.co/spaces/hshivhare/Sheet-Counter-Application)
